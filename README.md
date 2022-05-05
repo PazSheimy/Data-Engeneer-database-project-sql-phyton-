@@ -19,4 +19,10 @@ o Application architecture chosen and why
 •	We created the database on PyCharm to connect all the information about the database and create tables for the different entities of the internship database
 •	We implemented Tinker for the graphical user Interface (GUI) which is a python interface toolkit. 
 
-![Screenshot](https://raw.githubusercontent.com/PazSheimy/WindowsConsoleAppTutorial/main/Screenshot%20(333).png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/ERD_Intership_database.png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture1.png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture2.png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture3.png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture4.png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture5.png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture1.png)
