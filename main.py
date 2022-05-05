@@ -193,6 +193,20 @@ def create_query(conn):
         main_menu(conn)
 
 
+# Create first view
+# CREATE [TEMP] VIEW [IF NOT EXISTS] Search Internship
+# AS
+# SELECT
+# company_name
+# internship_id
+# application_term
+# internship_term
+# description
+# experience_review
+# FROM
+# Internship
+
+
 # Drop a table - may not need this, but saving it for now
 # def drop_table(conn, sql_table_drop):
 #    try:
@@ -272,7 +286,9 @@ def main():
                         location text,
                         internship_id integer,
                         internship_description text,
-                        num_of_positions integer
+                        num_of_positions integer,
+                        primary key (company_id),
+                        foreign key (internship_id) references internships
                         )'''
 
     # TODO Here we Implement a FOREIGN KEY using internship_id as hour FK and internships as reference table but it
@@ -285,7 +301,9 @@ def main():
                            internship_id integer,
                            applicant_name text,
                            status text,
-                           dates text
+                           dates text,
+                           primary key (application_id, applicant_name),
+                           foreign key (internship_id) references internships
                            )'''
 
     if conn is not None:
