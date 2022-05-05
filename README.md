@@ -1,10 +1,12 @@
 # Data-Engeneer-database-project
 # Languages: sql phyton 
 # Demonstrate the use of Tkinter
-o Product description and features
+o Product description and features:
+
 This is an internship database that will be composed of different tables that will help a student navigate through the system and find any information about any specific internship. The system will require the student to register first before being able to utilize the database. 
 
 o Analysis and development techniques applied
+
 The user can't modify the view. The view will go directly to the internship table.
  Highlight assumptions and any elements that are simulations of production 
 processes (i.e., you couldn’t implement or finish, but provided small simulation)
@@ -17,3 +19,4 @@ o Application architecture chosen and why
 •	We created the database on PyCharm to connect all the information about the database and create tables for the different entities of the internship database
 •	We implemented Tinker for the graphical user Interface (GUI) which is a python interface toolkit. 
 
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/WindowsConsoleAppTutorial/main/Screenshot%20(333).png)
