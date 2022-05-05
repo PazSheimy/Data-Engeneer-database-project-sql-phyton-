@@ -25,4 +25,3 @@ o Application architecture chosen and why
 ![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture3.png)
 ![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture4.png)
 ![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture5.png)
-![Screenshot](https://raw.githubusercontent.com/PazSheimy/Data-Engineer-database-project-sql-phyton-/master/DatabaseGuiPicture1.png)
