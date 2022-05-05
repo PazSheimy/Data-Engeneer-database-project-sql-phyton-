@@ -1,4 +1,6 @@
-# Data-Engeneer-database-project-sql-phyton-
+# Data-Engeneer-database-project
+# Languages: sql phyton 
+# Demonstrate the use of Tkinter
 o Product description and features
 This is an internship database that will be composed of different tables that will help a student navigate through the system and find any information about any specific internship. The system will require the student to register first before being able to utilize the database. 
 
